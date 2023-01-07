@@ -1,0 +1,1 @@
+This is the warning string text file content.
